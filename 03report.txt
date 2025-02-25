@@ -1,0 +1,127 @@
+Mon Feb 24 18:40:07 PST 2025
+CYGWIN_NT-10.0-26100 OgiTeker 3.5.5-1.x86_64 2024-12-20 16:19 UTC x86_64 Cygwin
+ProgramFiles(x86)=C:\Program Files (x86)
+!::=::\
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+asl.log=Destination=file
+SHELL=/bin/bash
+NUMBER_OF_PROCESSORS=16
+FPS_BROWSER_USER_PROFILE_STRING=Default
+PROCESSOR_LEVEL=6
+TERM_PROGRAM_VERSION=3.7.7
+USERDOMAIN_ROAMINGPROFILE=OgiTeker
+HOSTNAME=OgiTeker
+PROGRAMFILES=C:\Program Files
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+OS=Windows_NT
+HOMEDRIVE=C:
+__PSLockDownPolicy=0
+USERDOMAIN=OgiTeker
+PWD=/home/mobil1/Code/mcb185_homework
+USERPROFILE=C:\Users\mobil1
+OneDriveConsumer=C:\Users\mobil1\OneDrive
+PRINTER=HP1C770A.lan (HP OfficeJet Pro 8030 series)
+TZ=America/Los_Angeles
+ALLUSERSPROFILE=C:\ProgramData
+ORIGINAL_PATH=/cygdrive/c/Windows/system32:/cygdrive/c/Windows:/cygdrive/c/Windows/System32/Wbem:/cygdrive/c/Windows/System32/WindowsPowerShell/v1.0:/cygdrive/c/Windows/System32/OpenSSH:/cygdrive/c/Program Files/dotnet:/cygdrive/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/cygdrive/c/WINDOWS/system32:/cygdrive/c/WINDOWS:/cygdrive/c/WINDOWS/System32/Wbem:/cygdrive/c/WINDOWS/System32/WindowsPowerShell/v1.0:/cygdrive/c/WINDOWS/System32/OpenSSH:/cygdrive/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/cygdrive/c/Users/mobil1/AppData/Local/Microsoft/WindowsApps
+CommonProgramW6432=C:\Program Files\Common Files
+HOME=/home/mobil1
+USERNAME=mobil1
+OneDrive=C:\Users\mobil1\OneDrive
+COMSPEC=C:\WINDOWS\system32\cmd.exe
+APPDATA=C:\Users\mobil1\AppData\Roaming
+SYSTEMROOT=C:\WINDOWS
+LOCALAPPDATA=C:\Users\mobil1\AppData\Local
+COMPUTERNAME=OGITEKER
+INFOPATH=/usr/local/info:/usr/share/info:/usr/info
+IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAOgMmvBB0hUCLvY2FNVLboQQAAAACAAAAAAAQZgAAAAEAACAAAADjWYvNXoV8nnDGer9AC3XSafhMSTh/27oekMQ7AQtMIQAAAAAOgAAAAAIAACAAAACOmPxX/REpNPSIziF1he9Kbm0yLv1lqIbdVwbxt3/BAmAAAADitQQ4SyUQ4rh1TwSwjFgqh0Ju5CWrp+TEfi/Guu+MCIs4IZPhLu7Q6vZO2Yd5UBKBXwVvMbJT5yFKy74qioIG1DPLtKVfGNogutBePfUiLkB5aHmLirB2bxoa+FtFk91AAAAAz+0Wi/SYZKoFB/x2+/CCqBCTPfg/SdqJv8MgzQOGKOpm0BAqy1Qi38r4VPS3f1Aqla3XcGMSZu+b7AXc3p83SQ==
+TERM=xterm
+LOGONSERVER=\\OGITEKER
+ZES_ENABLE_SYSMAN=1
+USER=mobil1
+PSModulePath=%ProgramFiles%\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+TEMP=/tmp
+SHLVL=2
+PROCESSOR_REVISION=8d01
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+LC_CTYPE=en_US.UTF-8
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 141 Stepping 1, GenuineIntel
+HOMEPATH=\Users\mobil1
+TMP=/tmp
+PATH=/usr/local/bin:/usr/bin:/cygdrive/c/Windows/system32:/cygdrive/c/Windows:/cygdrive/c/Windows/System32/Wbem:/cygdrive/c/Windows/System32/WindowsPowerShell/v1.0:/cygdrive/c/Windows/System32/OpenSSH:/cygdrive/c/Program Files/dotnet:/cygdrive/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/cygdrive/c/WINDOWS/system32:/cygdrive/c/WINDOWS:/cygdrive/c/WINDOWS/System32/Wbem:/cygdrive/c/WINDOWS/System32/WindowsPowerShell/v1.0:/cygdrive/c/WINDOWS/System32/OpenSSH:/cygdrive/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/cygdrive/c/Users/mobil1/AppData/Local/Microsoft/WindowsApps
+ProgramW6432=C:\Program Files
+PROFILEREAD=true
+MINTTY_SHORTCUT=/cygdrive/c/Users/ogi/Desktop/Cygwin64 Terminal.lnk
+WINDIR=C:\WINDOWS
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PROCESSOR_ARCHITECTURE=AMD64
+PUBLIC=C:\Users\Public
+SYSTEMDRIVE=C:
+EXECIGNORE=*.dll
+OLDPWD=/home/mobil1/Code/MCB185/data
+TERM_PROGRAM=mintty
+ProgramData=C:\ProgramData
+_=/usr/bin/printenv
+Python 3.9.16
+/home/mobil1/Code:
+MCB185
+mcb185_homework
+
+/home/mobil1/Code/MCB185:
+LICENSE
+README.md
+course
+data
+ref
+src
+
+/home/mobil1/Code/MCB185/course:
+participation.md
+unit0-unix.md
+unit1-calculations.md
+unit2-iteration.md
+unit3-containers.md
+unit4-sequences.md
+unit5-words.md
+unit6-data.md
+unit7-executables.md
+
+/home/mobil1/Code/MCB185/data:
+A.thaliana.fa.gz
+A.thaliana.gff.gz
+C.elegans.fa.gz
+C.elegans.gff.gz
+C.elegans.vcf.gz
+C.elegans_transcripts.fa.gz
+D.melanogaster.fa.gz
+D.melanogaster.gff.gz
+GCF_000005845.2_ASM584v2_genomic.fna.gz
+GCF_000005845.2_ASM584v2_genomic.gbff.gz
+GCF_000005845.2_ASM584v2_genomic.gff.gz
+GCF_000005845.2_ASM584v2_protein.faa.gz
+README.md
+colors_basic.tsv
+colors_extended.tsv
+dictionary.gz
+jaspar2024_core.transfac.gz
+primers.csv
+
+/home/mobil1/Code/MCB185/ref:
+LINUX_REFERENCE.md
+PYTHON_COOKBOOK.md
+PYTHON_REFERENCE.md
+
+/home/mobil1/Code/MCB185/src:
+mcb185.py
+
+/home/mobil1/Code/mcb185_homework:
+00hello.sh
+01hello.py
+02status.sh
+03report.txt
+LICENSE
+README.md
+ecoli.gff.gz
+participation.md
+poetry.txt
